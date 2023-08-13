@@ -11,7 +11,7 @@ const Footer = () => {
       <div>
         <h5>Follow Us</h5>
         <div>
-          <a href="https://youtube.com/prasadshembekar" target={"blank"}>
+          <a href="https://youtube.com/prasad-shembekar" target={"blank"}>
             Youtube
           </a>
           <a href="https://instagram.com/prasadshembekar" target={"blank"}>
